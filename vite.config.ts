@@ -1,11 +1,10 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// GitHub Pages требует базовый путь с именем репозитория
-const BASE_PATH = process.env.GITHUB_PAGES === 'true' ? '/PentaQ/' : '/';
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  base: BASE_PATH,
+  base: './',
   plugins: [react()],
   base: './',
   resolve: {
