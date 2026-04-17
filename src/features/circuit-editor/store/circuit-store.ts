@@ -120,7 +120,7 @@ const createAddGateCommand = (
   };
 };
 
-const createRemoveGateCommand = (gateId: string, circuitBeforeRemove: Circuit): Command => {
+const createRemoveGateCommand = (gateId: string): Command => {
   let removedGate: Gate | null = null;
 
   return {
