@@ -2,7 +2,7 @@
 
 # ⚛️ PentaQ
 
-**Визуальный конструктор квантовых схем для образования**
+**Визуальный конструктор квантовых схем**
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
