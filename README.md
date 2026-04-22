@@ -9,7 +9,9 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-in%20development-yellow)]()
+[![Type](https://img.shields.io/badge/type-portfolio%20project-blueviolet)]()
+[![Live Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://YuriySmirnovRepos.github.io/PentaQ)
 
 🎯 **До 5 кубитов** &nbsp;|&nbsp; 🖱️ **Drag-and-drop** &nbsp;|&nbsp; 🔄 **Undo/Redo** &nbsp;|&nbsp; 🔗 **URL Sharing**
 
