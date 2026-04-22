@@ -1,8 +1,10 @@
 <div align="center">
 
-# ⚛️ PentaQ
+<div align="center">
+  <img src="./docs/banner.png" alt="PentaQ Banner" width="100%">
+</div>
 
-**Визуальный конструктор квантовых схем**
+**Визуальный конструктор простых квантовых схем (до 5 кубитов)**
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
@@ -17,8 +19,8 @@
 
 ## 📸 Скриншоты
 
-| Редактор схем | Симуляция | Сфера Блоха |
-|:-------------:|:---------:|:-----------:|
+| Редактор схем |   Симуляция   |   Сфера Блоха    |
+| :-----------: | :-----------: | :--------------: |
 | _[Editor UI]_ | _[Histogram]_ | _[Bloch Sphere]_ |
 
 ---
@@ -48,18 +50,18 @@
 
 ## 🛠️ Технологический стек
 
-| Категория | Технологии |
-|-----------|-----------|
-| **Сборка** | Vite 5 + SWC |
-| **Фреймворк** | React 18 (Strict Mode) |
-| **Язык** | TypeScript (strict) |
-| **Состояние** | Zustand + Immer |
-| **Симуляция** | Нативная утилита расчета (Complex.js) |
-| **Canvas** | Konva.js (60 FPS) |
-| **3D** | React Three Fiber + Drei |
-| **Стили** | Tailwind CSS 3.4 |
-| **UI** | shadcn/ui + Radix |
-| **Тестирование** | Vitest + Playwright |
+| Категория        | Технологии                            |
+| ---------------- | ------------------------------------- |
+| **Сборка**       | Vite 5 + SWC                          |
+| **Фреймворк**    | React 18 (Strict Mode)                |
+| **Язык**         | TypeScript (strict)                   |
+| **Состояние**    | Zustand + Immer                       |
+| **Симуляция**    | Нативная утилита расчета (Complex.js) |
+| **Canvas**       | Konva.js (60 FPS)                     |
+| **3D**           | React Three Fiber + Drei              |
+| **Стили**        | Tailwind CSS 3.4                      |
+| **UI**           | shadcn/ui + Radix                     |
+| **Тестирование** | Vitest + Playwright                   |
 
 ---
 
@@ -105,15 +107,15 @@ npm run dev
 
 ## 📋 Команды
 
-| Команда | Описание |
-|---------|----------|
-| `npm run dev` | 🚀 Dev server с HMR |
-| `npm run build` | 📦 Production сборка |
-| `npm run preview` | 👁️ Превью сборки |
-| `npm run test` | 🧪 Unit тесты (Vitest) |
-| `npm run test:e2e` | 🎭 E2E тесты (Playwright) |
-| `npm run lint` | 🔍 ESLint проверка |
-| `npm run type-check` | ✅ TypeScript проверка |
+| Команда              | Описание                 |
+| -------------------- | ------------------------ |
+| `npm run dev`        | 🚀 Dev server с HMR       |
+| `npm run build`      | 📦 Production сборка      |
+| `npm run preview`    | 👁️ Превью сборки          |
+| `npm run test`       | 🧪 Unit тесты (Vitest)    |
+| `npm run test:e2e`   | 🎭 E2E тесты (Playwright) |
+| `npm run lint`       | 🔍 ESLint проверка        |
+| `npm run type-check` | ✅ TypeScript проверка    |
 
 ---
 
